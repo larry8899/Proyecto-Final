@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiWindows", "ApiWindows\ApiWindows.csproj", "{9F54ACC1-AF59-41FC-B9A5-7685BE6265A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormularioCliente", "..\FormularioCliente\FormularioCliente\FormularioCliente.csproj", "{A750882C-DECF-4935-AF72-5FE9301F0F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F54ACC1-AF59-41FC-B9A5-7685BE6265A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F54ACC1-AF59-41FC-B9A5-7685BE6265A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F54ACC1-AF59-41FC-B9A5-7685BE6265A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F54ACC1-AF59-41FC-B9A5-7685BE6265A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A750882C-DECF-4935-AF72-5FE9301F0F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A750882C-DECF-4935-AF72-5FE9301F0F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A750882C-DECF-4935-AF72-5FE9301F0F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A750882C-DECF-4935-AF72-5FE9301F0F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A86CD66-409C-41BE-8311-BFF78BA0181D}
+	EndGlobalSection
+EndGlobal
